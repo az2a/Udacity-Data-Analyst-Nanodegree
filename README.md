@@ -5,9 +5,13 @@ I compare in this project between the moving average of the temperature in my ci
 
 
 
+
+
 ## No Show
 
 I work on medical center dataset which contain information of more than 100k appointments. I went through the dataset to investigate and analyze which factors effected the patient behavior on showing up / not showing up. This is including chart to visualize the data easily.
+
+
 
 
 ## Analyze A/B Test Analysis
