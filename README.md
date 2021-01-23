@@ -17,3 +17,7 @@ I work on medical center dataset which contain information of more than 100k app
 ## Analyze A/B Test Analysis
 
 I have work to analyze and understand the result of A/B test that run on e-commerce website. This test is important to help the company on the decision of changing to the new page or keep the old page. 
+
+## WeRateDog
+
+This project is to collect, clean and analysis twitter’s data from WeRateDogs account. There are steps to be fallowed during this process (Gathering, Assessing, Cleaning and Analyzing).
