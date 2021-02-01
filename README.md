@@ -21,3 +21,8 @@ I have work to analyze and understand the result of A/B test that run on e-comme
 ## WeRateDog
 
 This project is to collect, clean and analysis twitter’s data from WeRateDogs account. There are steps to be fallowed during this process (Gathering, Assessing, Cleaning and Analyzing).
+
+## Ford_go_bike
+
+The dataset (201902-fordgobike-tripdata.csv) downloaded from Udacity website. Ford go bike contain
+183412 trips with the several information provided about each trip during Feb 2019
